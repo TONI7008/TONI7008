@@ -43,5 +43,5 @@ portfolio: https://yourdomain.com (optional) -->
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TONI7008&show_icons=true&theme=gruvbox&hide_border=true" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Toni&show_icons=true&theme=gruvbox&hide_border=true" alt="github stats" />
 </p>
